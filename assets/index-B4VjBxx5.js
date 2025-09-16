@@ -13324,7 +13324,7 @@ function hn(u) {
 	Q(u, D);
 }
 var gn = Eu(
-		'<div class="pop-up svelte-156yx5j"><div class="letter svelte-156yx5j"><div class="flap-top svelte-156yx5j"></div> <div class="content svelte-156yx5j"><p class="greeting svelte-156yx5j">Gửi Cục Dàng của anh,</p> <p class="typewriter svelte-156yx5j"> </p> <p class="signature svelte-156yx5j">— From Vĩnh Long with love! 🌟</p></div> <button class="close svelte-156yx5j">Đóng</button></div></div>'
+		'<div class="pop-up svelte-156yx5j"><div class="letter svelte-156yx5j"><div class="flap-top svelte-156yx5j"></div> <div class="content svelte-156yx5j"><p class="greeting svelte-156yx5j">Gửi Cục Dàng của anh,</p> <p class="typewriter svelte-156yx5j"> </p> <p class="signature svelte-156yx5j">— From Ông chã with love! 🌟</p></div> <button class="close svelte-156yx5j">Đóng</button></div></div>'
 	),
 	pn = Eu(
 		'<button style="margin: 30px 0 20px 0; z-index: 1000" class="open-btn svelte-156yx5j">👉 Những điều muốn nói với em! 👈</button> <!>',
@@ -13513,9 +13513,9 @@ function On(u, D) {
 }
 var xn = Eu('<h1 class="typing">Xin chào Cục dàng của anh</h1>'),
 	Rn = Eu('<h1 class="typing"></h1>'),
-	kn = Eu('<h1 class="typing">Biết chuyện gì chưa dạaaaaâ?</h1>'),
+	kn = Eu('<h1 class="typing">Biết chuyện gì chưa dạaaaa?</h1>'),
 	$n = Eu(
-		'<button style="background-color: #ffb6c1;">Sẵn sàng rồi ạaaaaa &#8594</button>'
+		'<button style="background-color: #ffb6c1;">Dạ chưaaaaa &#8594</button>'
 	),
 	jn = Eu("<section><!> <!> <!> <!></section>"),
 	qn = Eu('<section class="animate-section svelte-748n6z"><!></section>'),
