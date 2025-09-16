@@ -13513,9 +13513,9 @@ function On(u, D) {
 }
 var xn = Eu('<h1 class="typing">Xin chào Cục dàng của anh</h1>'),
 	Rn = Eu('<h1 class="typing"></h1>'),
-	kn = Eu('<h1 class="typing">Biết chuyện gì chưa dạaaaaâ?</h1>'),
+	kn = Eu('<h1 class="typing">Biết chuyện gì chưa dạaaaa?</h1>'),
 	$n = Eu(
-		'<button style="background-color: #ffb6c1;">Sẵn sàng rồi ạaaaaa &#8594</button>'
+		'<button style="background-color: #ffb6c1;">Dạ chưaaaaa &#8594</button>'
 	),
 	jn = Eu("<section><!> <!> <!> <!></section>"),
 	qn = Eu('<section class="animate-section svelte-748n6z"><!></section>'),
